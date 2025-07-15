@@ -6,4 +6,4 @@ Welcome to the documentation of our LEGO Spike Prime robot build, designed for o
 
 ## 📸 Robot Design Preview
 
-![Spike Prime Robot](images/spike-prime.jpg)
+ ![Image Alt](https://github.com/devtyrs/Future-Engineers/blob/6d26d9a76979bd2b51f6766a203837760ef612f0/Images/Spike%20Prime_sample.jpg)
